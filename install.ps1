@@ -9,7 +9,7 @@ $repoBase = "https://raw.githubusercontent.com/ashleyxdev/dsa-suite/master"
 # List available C programs (add or remove as needed)
 $cPrograms = @(
     @{ id = 1; name = "travelling-salesman-branch-bound.c" },
-    @{ id = 2; name = "01-knapsack-branch-bound.c" },
+    @{ id = 2; name = "01-knapsack-branch-bound.c" }
 )
 
 # Display options
