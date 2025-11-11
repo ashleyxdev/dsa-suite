@@ -8,8 +8,16 @@ $repoBase = "https://raw.githubusercontent.com/ashleyxdev/dsa-suite/master"
 
 # List available C programs (add or remove as needed)
 $cPrograms = @(
-    @{ id = 1; name = "travelling-salesman-branch-bound.c" },
-    @{ id = 2; name = "01-knapsack-branch-bound.c" }
+    @{ id = 1; name = "college-graph-bfs-dfs.c" },
+    @{ id = 2; name = "city-graph-dijkstra.c" },
+    @{ id = 3; name = "hash-map.c" },
+    @{ id = 4; name = "threaded-binary-tree.c" },
+    @{ id = 5; name = "knapsack-fractional-and-01.c" },
+    @{ id = 6; name = "bellman-ford.c" },
+    @{ id = 7; name = "n-queens.c" },
+    @{ id = 8; name = "travelling-salesman-branch-bound.c" },
+    @{ id = 9; name = "floyd-warshall.c" },
+    @{ id = 10; name = "01-knapsack-branch-bound.c" }
 )
 
 # Display options
