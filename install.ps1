@@ -4,7 +4,7 @@ Write-Host "==============================="
 Write-Host ""
 
 # Base URL of your GitHub repo (raw content)
-$repoBase = "https://raw.githubusercontent.com/ashleyxdev/c-programs/master"
+$repoBase = "https://raw.githubusercontent.com/ashleyxdev/dsa-suite/master"
 
 # List available C programs (add or remove as needed)
 $cPrograms = @(
